@@ -12,3 +12,5 @@ Atelier de réparation à Poitiers. Les outils écrits pour l'atelier sont publi
 Found a bug? Open an issue on the project. Have an idea? Start a discussion.
 
 [atelier-sam.fr](https://atelier-sam.fr)
+
+Made by [Samuel Muselet](https://github.com/ateliersam86) · Conçu par Samuel Muselet
